@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\module 1",
+    "\\module 1\\homework2",
+    "\\module 1\\homework2\\homework2.2"
   ],
   "PreviewInSolutionExplorer": false
 }

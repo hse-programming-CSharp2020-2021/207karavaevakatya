@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\Homework3\1_thirteen\bin\Debug\netcoreapp3.1\1_thirteen.exe
+C:\Users\kikin\source\repos\Homework3\1_thirteen\bin\Debug\netcoreapp3.1\1_thirteen.deps.json
+C:\Users\kikin\source\repos\Homework3\1_thirteen\bin\Debug\netcoreapp3.1\1_thirteen.runtimeconfig.json
+C:\Users\kikin\source\repos\Homework3\1_thirteen\bin\Debug\netcoreapp3.1\1_thirteen.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\Homework3\1_thirteen\bin\Debug\netcoreapp3.1\1_thirteen.dll
+C:\Users\kikin\source\repos\Homework3\1_thirteen\bin\Debug\netcoreapp3.1\1_thirteen.pdb
+C:\Users\kikin\source\repos\Homework3\1_thirteen\obj\Debug\netcoreapp3.1\1_thirteen.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\Homework3\1_thirteen\obj\Debug\netcoreapp3.1\1_thirteen.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\Homework3\1_thirteen\obj\Debug\netcoreapp3.1\1_thirteen.AssemblyInfo.cs
+C:\Users\kikin\source\repos\Homework3\1_thirteen\obj\Debug\netcoreapp3.1\1_thirteen.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\Homework3\1_thirteen\obj\Debug\netcoreapp3.1\1_thirteen.dll
+C:\Users\kikin\source\repos\Homework3\1_thirteen\obj\Debug\netcoreapp3.1\1_thirteen.pdb
+C:\Users\kikin\source\repos\Homework3\1_thirteen\obj\Debug\netcoreapp3.1\1_thirteen.genruntimeconfig.cache

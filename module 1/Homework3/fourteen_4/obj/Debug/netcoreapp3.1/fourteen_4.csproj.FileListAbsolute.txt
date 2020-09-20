@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\Homework3\fourteen_4\bin\Debug\netcoreapp3.1\fourteen_4.exe
+C:\Users\kikin\source\repos\Homework3\fourteen_4\bin\Debug\netcoreapp3.1\fourteen_4.deps.json
+C:\Users\kikin\source\repos\Homework3\fourteen_4\bin\Debug\netcoreapp3.1\fourteen_4.runtimeconfig.json
+C:\Users\kikin\source\repos\Homework3\fourteen_4\bin\Debug\netcoreapp3.1\fourteen_4.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\Homework3\fourteen_4\bin\Debug\netcoreapp3.1\fourteen_4.dll
+C:\Users\kikin\source\repos\Homework3\fourteen_4\bin\Debug\netcoreapp3.1\fourteen_4.pdb
+C:\Users\kikin\source\repos\Homework3\fourteen_4\obj\Debug\netcoreapp3.1\fourteen_4.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\Homework3\fourteen_4\obj\Debug\netcoreapp3.1\fourteen_4.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\Homework3\fourteen_4\obj\Debug\netcoreapp3.1\fourteen_4.AssemblyInfo.cs
+C:\Users\kikin\source\repos\Homework3\fourteen_4\obj\Debug\netcoreapp3.1\fourteen_4.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\Homework3\fourteen_4\obj\Debug\netcoreapp3.1\fourteen_4.dll
+C:\Users\kikin\source\repos\Homework3\fourteen_4\obj\Debug\netcoreapp3.1\fourteen_4.pdb
+C:\Users\kikin\source\repos\Homework3\fourteen_4\obj\Debug\netcoreapp3.1\fourteen_4.genruntimeconfig.cache
