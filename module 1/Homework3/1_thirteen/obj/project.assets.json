@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\Homework3\\1_thirteen\\1_thirteen.csproj",
+      "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\Homework3\\1_thirteen\\1_thirteen.csproj",
       "projectName": "1_thirteen",
-      "projectPath": "C:\\Users\\kikin\\source\\repos\\Homework3\\1_thirteen\\1_thirteen.csproj",
+      "projectPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\Homework3\\1_thirteen\\1_thirteen.csproj",
       "packagesPath": "C:\\Users\\kikin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kikin\\source\\repos\\Homework3\\1_thirteen\\obj\\",
+      "outputPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\Homework3\\1_thirteen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kikin\\AppData\\Roaming\\NuGet\\NuGet.Config",

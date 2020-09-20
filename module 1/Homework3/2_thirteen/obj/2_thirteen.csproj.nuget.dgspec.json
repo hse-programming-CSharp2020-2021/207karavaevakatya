@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kikin\\source\\repos\\Homework3\\2_thirteen\\2_thirteen.csproj": {}
+    "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\Homework3\\2_thirteen\\2_thirteen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kikin\\source\\repos\\Homework3\\2_thirteen\\2_thirteen.csproj": {
+    "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\Homework3\\2_thirteen\\2_thirteen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\Homework3\\2_thirteen\\2_thirteen.csproj",
+        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\Homework3\\2_thirteen\\2_thirteen.csproj",
         "projectName": "2_thirteen",
-        "projectPath": "C:\\Users\\kikin\\source\\repos\\Homework3\\2_thirteen\\2_thirteen.csproj",
+        "projectPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\Homework3\\2_thirteen\\2_thirteen.csproj",
         "packagesPath": "C:\\Users\\kikin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kikin\\source\\repos\\Homework3\\2_thirteen\\obj\\",
+        "outputPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\Homework3\\2_thirteen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kikin\\AppData\\Roaming\\NuGet\\NuGet.Config",
