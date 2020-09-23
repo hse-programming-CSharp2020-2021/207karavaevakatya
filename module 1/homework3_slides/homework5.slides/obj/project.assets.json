@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework3_slides\\homework5.slides\\homework6.slides.csproj",
+      "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\homework3_slides\\homework5.slides\\homework6.slides.csproj",
       "projectName": "homework6.slides",
-      "projectPath": "C:\\Users\\kikin\\source\\repos\\homework3_slides\\homework5.slides\\homework6.slides.csproj",
+      "projectPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\homework3_slides\\homework5.slides\\homework6.slides.csproj",
       "packagesPath": "C:\\Users\\kikin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kikin\\source\\repos\\homework3_slides\\homework5.slides\\obj\\",
+      "outputPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\homework3_slides\\homework5.slides\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kikin\\AppData\\Roaming\\NuGet\\NuGet.Config",

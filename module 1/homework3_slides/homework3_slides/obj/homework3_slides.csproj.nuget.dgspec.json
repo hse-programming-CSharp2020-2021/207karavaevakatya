@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kikin\\source\\repos\\homework3_slides\\homework3_slides\\homework3_slides.csproj": {}
+    "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\homework3_slides\\homework3_slides\\homework3_slides.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kikin\\source\\repos\\homework3_slides\\homework3_slides\\homework3_slides.csproj": {
+    "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\homework3_slides\\homework3_slides\\homework3_slides.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework3_slides\\homework3_slides\\homework3_slides.csproj",
+        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\homework3_slides\\homework3_slides\\homework3_slides.csproj",
         "projectName": "homework3_slides",
-        "projectPath": "C:\\Users\\kikin\\source\\repos\\homework3_slides\\homework3_slides\\homework3_slides.csproj",
+        "projectPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\homework3_slides\\homework3_slides\\homework3_slides.csproj",
         "packagesPath": "C:\\Users\\kikin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kikin\\source\\repos\\homework3_slides\\homework3_slides\\obj\\",
+        "outputPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\homework3_slides\\homework3_slides\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kikin\\AppData\\Roaming\\NuGet\\NuGet.Config",
