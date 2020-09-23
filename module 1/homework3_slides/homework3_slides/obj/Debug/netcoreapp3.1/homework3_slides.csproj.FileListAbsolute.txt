@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\bin\Debug\netcoreapp3.1\homework3_slides.exe
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\bin\Debug\netcoreapp3.1\homework3_slides.deps.json
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\bin\Debug\netcoreapp3.1\homework3_slides.runtimeconfig.json
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\bin\Debug\netcoreapp3.1\homework3_slides.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\bin\Debug\netcoreapp3.1\homework3_slides.dll
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\bin\Debug\netcoreapp3.1\homework3_slides.pdb
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\obj\Debug\netcoreapp3.1\homework3_slides.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\obj\Debug\netcoreapp3.1\homework3_slides.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\obj\Debug\netcoreapp3.1\homework3_slides.AssemblyInfo.cs
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\obj\Debug\netcoreapp3.1\homework3_slides.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\obj\Debug\netcoreapp3.1\homework3_slides.dll
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\obj\Debug\netcoreapp3.1\homework3_slides.pdb
+C:\Users\kikin\source\repos\homework3_slides\homework3_slides\obj\Debug\netcoreapp3.1\homework3_slides.genruntimeconfig.cache

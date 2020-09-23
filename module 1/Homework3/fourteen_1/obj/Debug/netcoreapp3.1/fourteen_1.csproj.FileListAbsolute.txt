@@ -11,3 +11,16 @@ C:\Users\kikin\source\repos\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourtee
 C:\Users\kikin\source\repos\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourteen_1.dll
 C:\Users\kikin\source\repos\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourteen_1.pdb
 C:\Users\kikin\source\repos\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourteen_1.genruntimeconfig.cache
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\bin\Debug\netcoreapp3.1\fourteen_1.exe
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\bin\Debug\netcoreapp3.1\fourteen_1.deps.json
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\bin\Debug\netcoreapp3.1\fourteen_1.runtimeconfig.json
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\bin\Debug\netcoreapp3.1\fourteen_1.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\bin\Debug\netcoreapp3.1\fourteen_1.dll
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\bin\Debug\netcoreapp3.1\fourteen_1.pdb
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourteen_1.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourteen_1.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourteen_1.AssemblyInfo.cs
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourteen_1.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourteen_1.dll
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourteen_1.pdb
+C:\Users\kikin\source\repos\homework2.1\module 1\Homework3\fourteen_1\obj\Debug\netcoreapp3.1\fourteen_1.genruntimeconfig.cache
