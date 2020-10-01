@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\homework4\homework4.3\bin\Debug\netcoreapp3.1\homework4.3.exe
+C:\Users\kikin\source\repos\homework4\homework4.3\bin\Debug\netcoreapp3.1\homework4.3.deps.json
+C:\Users\kikin\source\repos\homework4\homework4.3\bin\Debug\netcoreapp3.1\homework4.3.runtimeconfig.json
+C:\Users\kikin\source\repos\homework4\homework4.3\bin\Debug\netcoreapp3.1\homework4.3.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\homework4\homework4.3\bin\Debug\netcoreapp3.1\homework4.3.dll
+C:\Users\kikin\source\repos\homework4\homework4.3\bin\Debug\netcoreapp3.1\homework4.3.pdb
+C:\Users\kikin\source\repos\homework4\homework4.3\obj\Debug\netcoreapp3.1\homework4.3.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\homework4\homework4.3\obj\Debug\netcoreapp3.1\homework4.3.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\homework4\homework4.3\obj\Debug\netcoreapp3.1\homework4.3.AssemblyInfo.cs
+C:\Users\kikin\source\repos\homework4\homework4.3\obj\Debug\netcoreapp3.1\homework4.3.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\homework4\homework4.3\obj\Debug\netcoreapp3.1\homework4.3.dll
+C:\Users\kikin\source\repos\homework4\homework4.3\obj\Debug\netcoreapp3.1\homework4.3.pdb
+C:\Users\kikin\source\repos\homework4\homework4.3\obj\Debug\netcoreapp3.1\homework4.3.genruntimeconfig.cache
