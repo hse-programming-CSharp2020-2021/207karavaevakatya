@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\CW7\CW7\bin\Debug\netcoreapp3.1\CW7.exe
+C:\Users\kikin\source\repos\CW7\CW7\bin\Debug\netcoreapp3.1\CW7.deps.json
+C:\Users\kikin\source\repos\CW7\CW7\bin\Debug\netcoreapp3.1\CW7.runtimeconfig.json
+C:\Users\kikin\source\repos\CW7\CW7\bin\Debug\netcoreapp3.1\CW7.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\CW7\CW7\bin\Debug\netcoreapp3.1\CW7.dll
+C:\Users\kikin\source\repos\CW7\CW7\bin\Debug\netcoreapp3.1\CW7.pdb
+C:\Users\kikin\source\repos\CW7\CW7\obj\Debug\netcoreapp3.1\CW7.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\CW7\CW7\obj\Debug\netcoreapp3.1\CW7.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\CW7\CW7\obj\Debug\netcoreapp3.1\CW7.AssemblyInfo.cs
+C:\Users\kikin\source\repos\CW7\CW7\obj\Debug\netcoreapp3.1\CW7.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\CW7\CW7\obj\Debug\netcoreapp3.1\CW7.dll
+C:\Users\kikin\source\repos\CW7\CW7\obj\Debug\netcoreapp3.1\CW7.pdb
+C:\Users\kikin\source\repos\CW7\CW7\obj\Debug\netcoreapp3.1\CW7.genruntimeconfig.cache
