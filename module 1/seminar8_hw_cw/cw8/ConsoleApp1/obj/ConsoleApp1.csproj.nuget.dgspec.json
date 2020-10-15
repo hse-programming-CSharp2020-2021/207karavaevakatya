@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kikin\\source\\repos\\cw8\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar8_hw_cw\\cw8\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kikin\\source\\repos\\cw8\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar8_hw_cw\\cw8\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\cw8\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar8_hw_cw\\cw8\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\kikin\\source\\repos\\cw8\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar8_hw_cw\\cw8\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\kikin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kikin\\source\\repos\\cw8\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar8_hw_cw\\cw8\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kikin\\AppData\\Roaming\\NuGet\\NuGet.Config",

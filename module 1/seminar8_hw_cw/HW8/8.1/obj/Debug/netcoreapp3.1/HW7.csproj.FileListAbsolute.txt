@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.exe
+C:\Users\kikin\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.deps.json
+C:\Users\kikin\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.runtimeconfig.json
+C:\Users\kikin\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.dll
+C:\Users\kikin\source\repos\HW7\HW7\bin\Debug\netcoreapp3.1\HW7.pdb
+C:\Users\kikin\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.AssemblyInfo.cs
+C:\Users\kikin\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.dll
+C:\Users\kikin\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.pdb
+C:\Users\kikin\source\repos\HW7\HW7\obj\Debug\netcoreapp3.1\HW7.genruntimeconfig.cache

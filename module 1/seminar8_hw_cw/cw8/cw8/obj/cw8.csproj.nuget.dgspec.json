@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kikin\\source\\repos\\cw8\\cw8\\cw8.csproj": {}
+    "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar8_hw_cw\\cw8\\cw8\\cw8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kikin\\source\\repos\\cw8\\cw8\\cw8.csproj": {
+    "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar8_hw_cw\\cw8\\cw8\\cw8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\cw8\\cw8\\cw8.csproj",
+        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar8_hw_cw\\cw8\\cw8\\cw8.csproj",
         "projectName": "cw8",
-        "projectPath": "C:\\Users\\kikin\\source\\repos\\cw8\\cw8\\cw8.csproj",
+        "projectPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar8_hw_cw\\cw8\\cw8\\cw8.csproj",
         "packagesPath": "C:\\Users\\kikin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kikin\\source\\repos\\cw8\\cw8\\obj\\",
+        "outputPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar8_hw_cw\\cw8\\cw8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kikin\\AppData\\Roaming\\NuGet\\NuGet.Config",
