@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework7.1\\homework7.6\\homework7.6.csproj",
+      "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar7_hw_cw\\homework7.1\\homework7.6\\homework7.6.csproj",
       "projectName": "homework7.6",
-      "projectPath": "C:\\Users\\kikin\\source\\repos\\homework7.1\\homework7.6\\homework7.6.csproj",
+      "projectPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar7_hw_cw\\homework7.1\\homework7.6\\homework7.6.csproj",
       "packagesPath": "C:\\Users\\kikin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kikin\\source\\repos\\homework7.1\\homework7.6\\obj\\",
+      "outputPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar7_hw_cw\\homework7.1\\homework7.6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kikin\\AppData\\Roaming\\NuGet\\NuGet.Config",

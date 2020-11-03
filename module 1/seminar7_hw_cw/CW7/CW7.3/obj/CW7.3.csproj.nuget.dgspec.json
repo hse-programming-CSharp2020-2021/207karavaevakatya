@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kikin\\source\\repos\\CW7\\CW7.3\\CW7.3.csproj": {}
+    "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar7_hw_cw\\CW7\\CW7.3\\CW7.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kikin\\source\\repos\\CW7\\CW7.3\\CW7.3.csproj": {
+    "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar7_hw_cw\\CW7\\CW7.3\\CW7.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\CW7\\CW7.3\\CW7.3.csproj",
+        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar7_hw_cw\\CW7\\CW7.3\\CW7.3.csproj",
         "projectName": "CW7.3",
-        "projectPath": "C:\\Users\\kikin\\source\\repos\\CW7\\CW7.3\\CW7.3.csproj",
+        "projectPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar7_hw_cw\\CW7\\CW7.3\\CW7.3.csproj",
         "packagesPath": "C:\\Users\\kikin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kikin\\source\\repos\\CW7\\CW7.3\\obj\\",
+        "outputPath": "C:\\Users\\kikin\\source\\repos\\homework2.1\\module 1\\seminar7_hw_cw\\CW7\\CW7.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kikin\\AppData\\Roaming\\NuGet\\NuGet.Config",
