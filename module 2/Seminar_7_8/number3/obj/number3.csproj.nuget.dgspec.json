@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kikin\\source\\repos\\Seminar_7_8\\number3\\number3.csproj": {}
+    "C:\\Users\\kikin\\source\\repos\\repos\\module 2\\Seminar_7_8\\number3\\number3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kikin\\source\\repos\\Seminar_7_8\\number3\\number3.csproj": {
+    "C:\\Users\\kikin\\source\\repos\\repos\\module 2\\Seminar_7_8\\number3\\number3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\Seminar_7_8\\number3\\number3.csproj",
+        "projectUniqueName": "C:\\Users\\kikin\\source\\repos\\repos\\module 2\\Seminar_7_8\\number3\\number3.csproj",
         "projectName": "number3",
-        "projectPath": "C:\\Users\\kikin\\source\\repos\\Seminar_7_8\\number3\\number3.csproj",
+        "projectPath": "C:\\Users\\kikin\\source\\repos\\repos\\module 2\\Seminar_7_8\\number3\\number3.csproj",
         "packagesPath": "C:\\Users\\kikin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kikin\\source\\repos\\Seminar_7_8\\number3\\obj\\",
+        "outputPath": "C:\\Users\\kikin\\source\\repos\\repos\\module 2\\Seminar_7_8\\number3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kikin\\AppData\\Roaming\\NuGet\\NuGet.Config",
