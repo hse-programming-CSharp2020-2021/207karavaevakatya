@@ -1,0 +1,9 @@
+C:\Users\kikin\source\repos\ConsoleApp10\forNumber2\bin\Debug\netstandard2.0\Figures.deps.json
+C:\Users\kikin\source\repos\ConsoleApp10\forNumber2\bin\Debug\netstandard2.0\Figures.dll
+C:\Users\kikin\source\repos\ConsoleApp10\forNumber2\bin\Debug\netstandard2.0\Figures.pdb
+C:\Users\kikin\source\repos\ConsoleApp10\forNumber2\obj\Debug\netstandard2.0\Figures.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\ConsoleApp10\forNumber2\obj\Debug\netstandard2.0\Figures.AssemblyInfo.cs
+C:\Users\kikin\source\repos\ConsoleApp10\forNumber2\obj\Debug\netstandard2.0\Figures.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\ConsoleApp10\forNumber2\obj\Debug\netstandard2.0\Figures.dll
+C:\Users\kikin\source\repos\ConsoleApp10\forNumber2\obj\Debug\netstandard2.0\Figures.pdb
+C:\Users\kikin\source\repos\ConsoleApp10\forNumber2\obj\Debug\netstandard2.0\Figures.csprojAssemblyReference.cache

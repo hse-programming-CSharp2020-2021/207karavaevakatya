@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\bin\Debug\netcoreapp3.1\number_9.exe
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\bin\Debug\netcoreapp3.1\number_9.deps.json
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\bin\Debug\netcoreapp3.1\number_9.runtimeconfig.json
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\bin\Debug\netcoreapp3.1\number_9.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\bin\Debug\netcoreapp3.1\number_9.dll
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\bin\Debug\netcoreapp3.1\number_9.pdb
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\obj\Debug\netcoreapp3.1\number_9.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\obj\Debug\netcoreapp3.1\number_9.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\obj\Debug\netcoreapp3.1\number_9.AssemblyInfo.cs
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\obj\Debug\netcoreapp3.1\number_9.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\obj\Debug\netcoreapp3.1\number_9.dll
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\obj\Debug\netcoreapp3.1\number_9.pdb
+C:\Users\kikin\source\repos\Seminar_5-6\number_9\obj\Debug\netcoreapp3.1\number_9.genruntimeconfig.cache

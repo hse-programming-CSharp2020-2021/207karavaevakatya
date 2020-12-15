@@ -1,0 +1,16 @@
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.exe
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.deps.json
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.json
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.dll
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.pdb
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfo.cs
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csproj.CopyComplete
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.dll
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.pdb
+C:\Users\kikin\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.genruntimeconfig.cache
