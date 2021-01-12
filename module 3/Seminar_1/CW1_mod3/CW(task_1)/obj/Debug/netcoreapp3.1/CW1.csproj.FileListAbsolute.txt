@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\bin\Debug\netcoreapp3.1\CW1.exe
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\bin\Debug\netcoreapp3.1\CW1.deps.json
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\bin\Debug\netcoreapp3.1\CW1.runtimeconfig.json
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\bin\Debug\netcoreapp3.1\CW1.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\bin\Debug\netcoreapp3.1\CW1.dll
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\bin\Debug\netcoreapp3.1\CW1.pdb
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\obj\Debug\netcoreapp3.1\CW1.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\obj\Debug\netcoreapp3.1\CW1.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\obj\Debug\netcoreapp3.1\CW1.AssemblyInfo.cs
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\obj\Debug\netcoreapp3.1\CW1.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\obj\Debug\netcoreapp3.1\CW1.dll
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\obj\Debug\netcoreapp3.1\CW1.pdb
+C:\Users\kikin\source\repos\ConsoleApp16\CW1\obj\Debug\netcoreapp3.1\CW1.genruntimeconfig.cache
