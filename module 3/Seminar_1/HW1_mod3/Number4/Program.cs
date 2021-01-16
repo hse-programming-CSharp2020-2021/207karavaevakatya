@@ -139,7 +139,7 @@ class Robot
     {
         xy.Add((x, y));
         y--;
-        if (x < max_Y)
+        if (y < max_Y)
             throw new ArgumentException();
     }
 
