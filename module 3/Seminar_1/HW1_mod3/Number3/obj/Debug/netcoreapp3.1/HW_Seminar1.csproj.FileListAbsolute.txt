@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\bin\Debug\netcoreapp3.1\HW_Seminar1.exe
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\bin\Debug\netcoreapp3.1\HW_Seminar1.deps.json
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\bin\Debug\netcoreapp3.1\HW_Seminar1.runtimeconfig.json
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\bin\Debug\netcoreapp3.1\HW_Seminar1.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\bin\Debug\netcoreapp3.1\HW_Seminar1.dll
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\bin\Debug\netcoreapp3.1\HW_Seminar1.pdb
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\obj\Debug\netcoreapp3.1\HW_Seminar1.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\obj\Debug\netcoreapp3.1\HW_Seminar1.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\obj\Debug\netcoreapp3.1\HW_Seminar1.AssemblyInfo.cs
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\obj\Debug\netcoreapp3.1\HW_Seminar1.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\obj\Debug\netcoreapp3.1\HW_Seminar1.dll
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\obj\Debug\netcoreapp3.1\HW_Seminar1.pdb
+C:\Users\kikin\source\repos\HW_Seminar1\HW_Seminar1\obj\Debug\netcoreapp3.1\HW_Seminar1.genruntimeconfig.cache
