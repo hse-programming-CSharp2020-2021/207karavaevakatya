@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\Extra1\Number1\bin\Debug\netcoreapp3.1\Number1.exe
+C:\Users\kikin\source\repos\Extra1\Number1\bin\Debug\netcoreapp3.1\Number1.deps.json
+C:\Users\kikin\source\repos\Extra1\Number1\bin\Debug\netcoreapp3.1\Number1.runtimeconfig.json
+C:\Users\kikin\source\repos\Extra1\Number1\bin\Debug\netcoreapp3.1\Number1.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\Extra1\Number1\bin\Debug\netcoreapp3.1\Number1.dll
+C:\Users\kikin\source\repos\Extra1\Number1\bin\Debug\netcoreapp3.1\Number1.pdb
+C:\Users\kikin\source\repos\Extra1\Number1\obj\Debug\netcoreapp3.1\Number1.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\Extra1\Number1\obj\Debug\netcoreapp3.1\Number1.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\Extra1\Number1\obj\Debug\netcoreapp3.1\Number1.AssemblyInfo.cs
+C:\Users\kikin\source\repos\Extra1\Number1\obj\Debug\netcoreapp3.1\Number1.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\Extra1\Number1\obj\Debug\netcoreapp3.1\Number1.dll
+C:\Users\kikin\source\repos\Extra1\Number1\obj\Debug\netcoreapp3.1\Number1.pdb
+C:\Users\kikin\source\repos\Extra1\Number1\obj\Debug\netcoreapp3.1\Number1.genruntimeconfig.cache
