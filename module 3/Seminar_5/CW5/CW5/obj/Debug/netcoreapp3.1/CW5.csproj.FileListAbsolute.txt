@@ -1,0 +1,13 @@
+C:\Users\kikin\RiderProjects\CW5\CW5\bin\Debug\netcoreapp3.1\CW5.exe
+C:\Users\kikin\RiderProjects\CW5\CW5\bin\Debug\netcoreapp3.1\CW5.deps.json
+C:\Users\kikin\RiderProjects\CW5\CW5\bin\Debug\netcoreapp3.1\CW5.runtimeconfig.json
+C:\Users\kikin\RiderProjects\CW5\CW5\bin\Debug\netcoreapp3.1\CW5.runtimeconfig.dev.json
+C:\Users\kikin\RiderProjects\CW5\CW5\bin\Debug\netcoreapp3.1\CW5.dll
+C:\Users\kikin\RiderProjects\CW5\CW5\bin\Debug\netcoreapp3.1\CW5.pdb
+C:\Users\kikin\RiderProjects\CW5\CW5\obj\Debug\netcoreapp3.1\CW5.csprojAssemblyReference.cache
+C:\Users\kikin\RiderProjects\CW5\CW5\obj\Debug\netcoreapp3.1\CW5.AssemblyInfoInputs.cache
+C:\Users\kikin\RiderProjects\CW5\CW5\obj\Debug\netcoreapp3.1\CW5.AssemblyInfo.cs
+C:\Users\kikin\RiderProjects\CW5\CW5\obj\Debug\netcoreapp3.1\CW5.csproj.CoreCompileInputs.cache
+C:\Users\kikin\RiderProjects\CW5\CW5\obj\Debug\netcoreapp3.1\CW5.dll
+C:\Users\kikin\RiderProjects\CW5\CW5\obj\Debug\netcoreapp3.1\CW5.pdb
+C:\Users\kikin\RiderProjects\CW5\CW5\obj\Debug\netcoreapp3.1\CW5.genruntimeconfig.cache

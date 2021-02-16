@@ -1,0 +1,13 @@
+C:\Users\kikin\RiderProjects\CW5\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+C:\Users\kikin\RiderProjects\CW5\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+C:\Users\kikin\RiderProjects\CW5\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+C:\Users\kikin\RiderProjects\CW5\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+C:\Users\kikin\RiderProjects\CW5\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+C:\Users\kikin\RiderProjects\CW5\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\kikin\RiderProjects\CW5\Queue\obj\Debug\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+C:\Users\kikin\RiderProjects\CW5\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+C:\Users\kikin\RiderProjects\CW5\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+C:\Users\kikin\RiderProjects\CW5\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+C:\Users\kikin\RiderProjects\CW5\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+C:\Users\kikin\RiderProjects\CW5\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\kikin\RiderProjects\CW5\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache
