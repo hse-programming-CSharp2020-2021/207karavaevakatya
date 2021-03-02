@@ -1,0 +1,9 @@
+C:\Users\kikin\RiderProjects\ConsoleApp23\ConsoleApp23\bin\Debug\net472\ConsoleApp23.exe.config
+C:\Users\kikin\RiderProjects\ConsoleApp23\ConsoleApp23\bin\Debug\net472\ConsoleApp23.exe
+C:\Users\kikin\RiderProjects\ConsoleApp23\ConsoleApp23\bin\Debug\net472\ConsoleApp23.pdb
+C:\Users\kikin\RiderProjects\ConsoleApp23\ConsoleApp23\obj\Debug\net472\ConsoleApp23.csprojAssemblyReference.cache
+C:\Users\kikin\RiderProjects\ConsoleApp23\ConsoleApp23\obj\Debug\net472\ConsoleApp23.AssemblyInfoInputs.cache
+C:\Users\kikin\RiderProjects\ConsoleApp23\ConsoleApp23\obj\Debug\net472\ConsoleApp23.AssemblyInfo.cs
+C:\Users\kikin\RiderProjects\ConsoleApp23\ConsoleApp23\obj\Debug\net472\ConsoleApp23.csproj.CoreCompileInputs.cache
+C:\Users\kikin\RiderProjects\ConsoleApp23\ConsoleApp23\obj\Debug\net472\ConsoleApp23.exe
+C:\Users\kikin\RiderProjects\ConsoleApp23\ConsoleApp23\obj\Debug\net472\ConsoleApp23.pdb

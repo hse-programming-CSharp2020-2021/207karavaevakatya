@@ -1,0 +1,9 @@
+C:\Users\kikin\RiderProjects\CW8\number2\bin\Debug\net472\number2.exe.config
+C:\Users\kikin\RiderProjects\CW8\number2\bin\Debug\net472\number2.exe
+C:\Users\kikin\RiderProjects\CW8\number2\bin\Debug\net472\number2.pdb
+C:\Users\kikin\RiderProjects\CW8\number2\obj\Debug\net472\number2.csprojAssemblyReference.cache
+C:\Users\kikin\RiderProjects\CW8\number2\obj\Debug\net472\number2.AssemblyInfoInputs.cache
+C:\Users\kikin\RiderProjects\CW8\number2\obj\Debug\net472\number2.AssemblyInfo.cs
+C:\Users\kikin\RiderProjects\CW8\number2\obj\Debug\net472\number2.csproj.CoreCompileInputs.cache
+C:\Users\kikin\RiderProjects\CW8\number2\obj\Debug\net472\number2.exe
+C:\Users\kikin\RiderProjects\CW8\number2\obj\Debug\net472\number2.pdb

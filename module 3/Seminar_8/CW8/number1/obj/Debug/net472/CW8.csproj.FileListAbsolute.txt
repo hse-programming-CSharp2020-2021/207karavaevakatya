@@ -1,0 +1,9 @@
+C:\Users\kikin\RiderProjects\CW8\CW8\bin\Debug\net472\CW8.exe.config
+C:\Users\kikin\RiderProjects\CW8\CW8\bin\Debug\net472\CW8.exe
+C:\Users\kikin\RiderProjects\CW8\CW8\bin\Debug\net472\CW8.pdb
+C:\Users\kikin\RiderProjects\CW8\CW8\obj\Debug\net472\CW8.csprojAssemblyReference.cache
+C:\Users\kikin\RiderProjects\CW8\CW8\obj\Debug\net472\CW8.AssemblyInfoInputs.cache
+C:\Users\kikin\RiderProjects\CW8\CW8\obj\Debug\net472\CW8.AssemblyInfo.cs
+C:\Users\kikin\RiderProjects\CW8\CW8\obj\Debug\net472\CW8.csproj.CoreCompileInputs.cache
+C:\Users\kikin\RiderProjects\CW8\CW8\obj\Debug\net472\CW8.exe
+C:\Users\kikin\RiderProjects\CW8\CW8\obj\Debug\net472\CW8.pdb

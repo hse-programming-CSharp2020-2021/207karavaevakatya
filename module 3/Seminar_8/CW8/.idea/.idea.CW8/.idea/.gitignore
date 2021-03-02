@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.CW8.iml
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\kikin\RiderProjects\CW8\.idea\.idea.CW8\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
