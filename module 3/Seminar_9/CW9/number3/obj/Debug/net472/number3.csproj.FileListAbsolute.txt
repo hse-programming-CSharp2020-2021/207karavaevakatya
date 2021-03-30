@@ -1,0 +1,9 @@
+C:\Users\kikin\RiderProjects\CW9\number3\bin\Debug\net472\number3.exe.config
+C:\Users\kikin\RiderProjects\CW9\number3\bin\Debug\net472\number3.exe
+C:\Users\kikin\RiderProjects\CW9\number3\bin\Debug\net472\number3.pdb
+C:\Users\kikin\RiderProjects\CW9\number3\obj\Debug\net472\number3.csprojAssemblyReference.cache
+C:\Users\kikin\RiderProjects\CW9\number3\obj\Debug\net472\number3.AssemblyInfoInputs.cache
+C:\Users\kikin\RiderProjects\CW9\number3\obj\Debug\net472\number3.AssemblyInfo.cs
+C:\Users\kikin\RiderProjects\CW9\number3\obj\Debug\net472\number3.csproj.CoreCompileInputs.cache
+C:\Users\kikin\RiderProjects\CW9\number3\obj\Debug\net472\number3.exe
+C:\Users\kikin\RiderProjects\CW9\number3\obj\Debug\net472\number3.pdb
