@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\CW10\CW10\bin\Debug\netcoreapp3.1\CW10.exe
+C:\Users\kikin\source\repos\CW10\CW10\bin\Debug\netcoreapp3.1\CW10.deps.json
+C:\Users\kikin\source\repos\CW10\CW10\bin\Debug\netcoreapp3.1\CW10.runtimeconfig.json
+C:\Users\kikin\source\repos\CW10\CW10\bin\Debug\netcoreapp3.1\CW10.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\CW10\CW10\bin\Debug\netcoreapp3.1\CW10.dll
+C:\Users\kikin\source\repos\CW10\CW10\bin\Debug\netcoreapp3.1\CW10.pdb
+C:\Users\kikin\source\repos\CW10\CW10\obj\Debug\netcoreapp3.1\CW10.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\CW10\CW10\obj\Debug\netcoreapp3.1\CW10.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\CW10\CW10\obj\Debug\netcoreapp3.1\CW10.AssemblyInfo.cs
+C:\Users\kikin\source\repos\CW10\CW10\obj\Debug\netcoreapp3.1\CW10.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\CW10\CW10\obj\Debug\netcoreapp3.1\CW10.dll
+C:\Users\kikin\source\repos\CW10\CW10\obj\Debug\netcoreapp3.1\CW10.pdb
+C:\Users\kikin\source\repos\CW10\CW10\obj\Debug\netcoreapp3.1\CW10.genruntimeconfig.cache
