@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYPkORsAxcfmAKxrFnSYQ67nZzpI8LF766h1gAAUWxYlZAHJlCmsM7Xzm9mIINkvMdG2CKfnSlnNzg/6E2pH1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kikin\\source\\repos\\CW2_mod4\\num3\\num3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kikin\\.nuget\\packages\\cb.system\\0.2.0\\cb.system.0.2.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\cb.system.runtime.serialization\\0.2.0\\cb.system.runtime.serialization.0.2.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\jetbrains.annotations\\2020.1.0\\jetbrains.annotations.2020.1.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\protobuf-net\\3.0.13\\protobuf-net.3.0.13.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\protobuf-net.core\\3.0.13\\protobuf-net.core.3.0.13.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\system.private.servicemodel.4.7.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\system.security.cryptography.pkcs\\4.5.0\\system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\kikin\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\system.servicemodel.primitives.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\bin\Debug\netcoreapp3.1\CW3_mod4.exe
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\bin\Debug\netcoreapp3.1\CW3_mod4.deps.json
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\bin\Debug\netcoreapp3.1\CW3_mod4.runtimeconfig.json
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\bin\Debug\netcoreapp3.1\CW3_mod4.runtimeconfig.dev.json
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\bin\Debug\netcoreapp3.1\CW3_mod4.dll
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\bin\Debug\netcoreapp3.1\CW3_mod4.pdb
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\obj\Debug\netcoreapp3.1\CW3_mod4.csprojAssemblyReference.cache
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\obj\Debug\netcoreapp3.1\CW3_mod4.AssemblyInfoInputs.cache
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\obj\Debug\netcoreapp3.1\CW3_mod4.AssemblyInfo.cs
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\obj\Debug\netcoreapp3.1\CW3_mod4.csproj.CoreCompileInputs.cache
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\obj\Debug\netcoreapp3.1\CW3_mod4.dll
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\obj\Debug\netcoreapp3.1\CW3_mod4.pdb
+C:\Users\kikin\source\repos\CW3_mod4\CW3_mod4\obj\Debug\netcoreapp3.1\CW3_mod4.genruntimeconfig.cache

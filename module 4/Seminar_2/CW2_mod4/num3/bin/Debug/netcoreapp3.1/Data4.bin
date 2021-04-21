@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfColoredConsoleSymbol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ColoredConsoleSymbol>
+    <X>0</X>
+    <Y>-1</Y>
+    <Simb>47</Simb>
+    <color>White</color>
+  </ColoredConsoleSymbol>
+  <ColoredConsoleSymbol>
+    <X>5</X>
+    <Y>-4</Y>
+    <Simb>24</Simb>
+    <color>White</color>
+  </ColoredConsoleSymbol>
+  <ColoredConsoleSymbol>
+    <X>4</X>
+    <Y>4</Y>
+    <Simb>23</Simb>
+    <color>White</color>
+  </ColoredConsoleSymbol>
+  <ColoredConsoleSymbol>
+    <X>-5</X>
+    <Y>-9</Y>
+    <Simb>16</Simb>
+    <color>White</color>
+  </ColoredConsoleSymbol>
+  <ColoredConsoleSymbol>
+    <X>7</X>
+    <Y>-10</Y>
+    <Simb>45</Simb>
+    <color>White</color>
+  </ColoredConsoleSymbol>
+</ArrayOfColoredConsoleSymbol>
